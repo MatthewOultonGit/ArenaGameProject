@@ -4,5 +4,13 @@ public class Goodie {
     // Constructor that take X and Y
     // Public method "addTo" with param GameArena (spawn the character)
     // Public method "move" 
+    //test
+    private int posX;
+    private int posY;
+    private Rectangle[] rectangles;
 
+    public Goodie()
+    {
+        
+    }
 }
